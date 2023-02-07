@@ -1,0 +1,5 @@
+LICENSE filter=lfs diff=lfs merge=lfs -text
+README.md filter=lfs diff=lfs merge=lfs -text
+training_testing_set.zip filter=lfs diff=lfs merge=lfs -text
+DRPScore_4DCNN.zip filter=lfs diff=lfs merge=lfs -text
+Detail_Data(figure5).zip filter=lfs diff=lfs merge=lfs -text
